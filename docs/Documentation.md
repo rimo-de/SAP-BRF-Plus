@@ -62,7 +62,7 @@ The function will return results in the output data object (`ZFI_FUNCTION_RESULT
 ![Process Function with Inputs](images/6_Process_function_with_inputs.png)  
 
 ### Report to Trigger BRF+  
-![Report to Trigger BRF+](images/7_Report_to_trigger_BRF.png)  
+![Report to Trigger BRF+](images/7_Report_to_trigger_BRF)  
 
 ### BRF+ Output  
 ![BRF+ Output](images/_Output.png)  
