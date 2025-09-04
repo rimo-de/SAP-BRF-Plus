@@ -29,6 +29,23 @@ German Tax Deduction Calculation using BRF+
       o	 Solidarity Surcharge (`ZFI_SOLIDARITY_SURCHARGE`)
       o	 Trade Tax (`ZFI_TRADE_TAX`)
 
+(1_Function_in_event_mode.png)
+
+(2_Ruleset_assigned_to_function.png)
+
+(3_Rules_to_derive_taxes.png)
+
+(4_Class_and_report_to_call_BRF)
+
+(5_Populate_inputs_into_context_variables.png)
+
+(6_Process_function_with_inputs.png)
+
+(7_Report_to_trigger_BRF)
+
+(8_BRF+_Output.png)
+
+
 
 
 
