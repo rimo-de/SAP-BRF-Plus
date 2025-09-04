@@ -65,5 +65,5 @@ The function will return results in the output data object (`ZFI_FUNCTION_RESULT
 ![Report to Trigger BRF+](images/7_Report_to_trigger_BRF.png)  
 
 ### BRF+ Output  
-![BRF+ Output](images/_Output.png)  
+![BRF+ Output](images/8_BRF+_Result.png)  
 
