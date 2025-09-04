@@ -1,4 +1,3 @@
-# SAP BRF Plus
+# SAP BRF Plus : Sample Business Scenario 
 
-- [BRF+ Application to Calculate Taxes](Sample_scenario_and_BRF+_design.md)
-- [Consuming BRF+ from ABAP](Consuming_BRF+_from_ABAP.md)
+- [Design BRF+ Application and Consume it from ABAP program](Sample_Business_Scenario_and_BRF+_application.pdf)
