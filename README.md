@@ -1,3 +1,3 @@
 # Demo: SAP BRF Plus Application
 
-- [Design BRF+ Application and Consume it from ABAP program](Sample_Business_Scenario_and_BRF+_application.pdf)
+- [Design BRF+ Application and Consume it from ABAP program](docs/Documentation.md)
