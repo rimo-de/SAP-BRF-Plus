@@ -26,8 +26,8 @@ Detailed steps with full screenshots are available here:
 ![Ruleset](docs/images/3_Rules_to_derive_taxes.png)  
 
 
-👉 Full report: [src/abap/zfi_de_tax_calculation.abap](../src/abap/zfi_de_tax_calculation.abap)  
-👉 Helper class: [src/abap/zcl_process_brf_app.clas.abap](../src/abap/zcl_process_brf_app.clas.abap)
+👉 Full report: [src/abap/zfi_de_tax_calculation.abap](src/abap/zfi_de_tax_calculation.abap)  
+👉 Helper class: [src/abap/zcl_process_brf_app.clas.abap](src/abap/zcl_process_brf_app.clas.abap)
 
 ---
 
