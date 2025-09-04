@@ -53,7 +53,7 @@ The function will return results in the output data object (`ZFI_FUNCTION_RESULT
 ![Rules to Derive Taxes](images/3_Rules_to_derive_taxes.png)  
 
 ### Class and Report to Call BRF+  
-![Class and Report to Call BRF+](images/4_Class_and_report_to_call_BRF.png)  
+![Class and Report to Call BRF+](images/4_Class_and_report_to_call_BRF.png)
 
 ### Populate Inputs into Context Variables  
 ![Populate Inputs into Context Variables](images/5_Populate_inputs_into_context_variables.png)  
@@ -62,7 +62,7 @@ The function will return results in the output data object (`ZFI_FUNCTION_RESULT
 ![Process Function with Inputs](images/6_Process_function_with_inputs.png)  
 
 ### Report to Trigger BRF+  
-![Report to Trigger BRF+](images/7_Report_to_trigger_BRF)  
+![Report to Trigger BRF+](images/7_Report_to_trigger_BRF.png)  
 
 ### BRF+ Output  
 ![BRF+ Output](images/_Output.png)  
